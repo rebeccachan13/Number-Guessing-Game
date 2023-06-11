@@ -1,0 +1,15 @@
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\bin\Debug\net7.0\Number Guessing Game.exe
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\bin\Debug\net7.0\Number Guessing Game.deps.json
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\bin\Debug\net7.0\Number Guessing Game.runtimeconfig.json
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\bin\Debug\net7.0\Number Guessing Game.dll
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\bin\Debug\net7.0\Number Guessing Game.pdb
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\Number Guessing Game.csproj.AssemblyReference.cache
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\Number Guessing Game.AssemblyInfoInputs.cache
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\Number Guessing Game.AssemblyInfo.cs
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\Number Guessing Game.dll
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\refint\Number Guessing Game.dll
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\Number Guessing Game.pdb
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\Number Guessing Game.genruntimeconfig.cache
+C:\Users\rebec\source\repos\Projects\Number Guessing Game\Number Guessing Game\obj\Debug\net7.0\ref\Number Guessing Game.dll
